@@ -113,6 +113,7 @@ Feel free to fork, raise issues, and contribute via pull requests.
 Maintainer: **Amit Maheshwari**
 📩 [amit@openwriteup.com](mailto:amit@openwriteup.com)
 
+Pratik
 ---
 
 ```
